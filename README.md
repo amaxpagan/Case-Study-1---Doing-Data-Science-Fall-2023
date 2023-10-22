@@ -1,5 +1,5 @@
 # Case Study 1 - Doing Data Science Fall 2023
-## Christian Castro and max Pagan
+## Christian Castro and Max Pagan
 ### 10/21/2023
 
 ### Introduction and Purpose:
@@ -8,7 +8,7 @@ The purpose of this study, conducted by Max Pagan and Christian Castro, is to an
 ### Codebook: 
 
 #### Transformations and merging:
-First, any row missing both ABV and IBU were removed since there was not enough data to infer the values. Afterwards, the mean IBU values were used to fill in missing values. 
+First, any row missing both ABV and IBU was removed since there was not enough data to infer the values. Afterward, the mean IBU values were used to fill in missing values. 
 The data was merged by combining data sets and relating them through the Brewery_ID and Brew_ID variables. 
 
 #### Environment:
@@ -33,7 +33,7 @@ Beers data set
  
 Brewery Data set
 
-	Brew_ID - the individual identifier of the beer brewer (same as Brewery_ID in Beers data set)
+	Brew_ID - the individual identifier of the beer brewer (same as Brewery_ID in the Beers data set)
  
 	Name - the name of the brewery
  
